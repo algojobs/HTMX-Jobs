@@ -1,6 +1,6 @@
 # HTMX Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 11/10/2024
+This data is updated weekly, with filled postings removed. Last updated: 11/18/2024
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [HTMX Jobs](https://algojobs.io/jobs/htmx)
 
@@ -8,6 +8,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | --- | --- | --- | --- | --- |
 | 11/08/2024 | [Backend Developer - Utilities](https://algojobs.io/jobs/2165221) | [Octopus Energy Group](https://algojobs.io/company/octoenergy/) | N/A | London, UK (Hybrid) |
 | 10/30/2024 | [Senior Software Engineer, Product](https://algojobs.io/jobs/2103466) | [Pricefox](https://algojobs.io/company/pricefox/) | N/A | Athens, Greece |
-| 10/16/2024 | [Sr Fullstack Software Engineer](https://algojobs.io/jobs/2012859) | [Newfold Digital](https://algojobs.io/company/web/) | N/A | Brazil - Remote |
 | 10/11/2024 | [Software Engineer (Internship)](https://algojobs.io/jobs/1979259) | [Mistral AI](https://algojobs.io/company/mistral/) | N/A | Paris |
+| 10/05/2024 | [Senior Software Engineer, Product](https://algojobs.io/jobs/1933809) | [Pricefox](https://algojobs.io/company/pricefox/) | N/A | Athens, Greece |
 | 10/05/2024 | [Senior Backend Software Engineer](https://algojobs.io/jobs/1933808) | [Pricefox](https://algojobs.io/company/pricefox/) | N/A | Athens, Greece |
