@@ -1,14 +1,17 @@
 # HTMX Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 07/01/2025
+This data is updated weekly, with filled postings removed. Last updated: 07/25/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [HTMX Jobs](https://algojobs.io/jobs/htmx)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 06/27/2025 | [Space Force MUOS Web Developer and Data Analytics Engineer- Django Framework](https://algojobs.io/jobs/4509602) | [General Dynamics Mission Systems, Inc](https://algojobs.io/company/gdms/) | $115K - $128K | AZ-Scottsdale, United States |
-| 06/20/2025 | [Software Engineer - CoalitionRe](https://algojobs.io/jobs/4436615) | [Coalition, Inc.](https://algojobs.io/company/coalition/) | N/A | Any location, United States |
-| 06/20/2025 | [Software Engineer - CoalitionRe](https://algojobs.io/jobs/4436617) | [Coalition, Inc.](https://algojobs.io/company/coalition/) | N/A | Any location, Canada |
+| 07/23/2025 | [Senior Frontend Software Engineer](https://algojobs.io/jobs/4760568) | [Fairmarkit](https://algojobs.io/company/fairmarkit/) | N/A | Poland - Warsaw |
+| 07/15/2025 | [Fullstack Engineer (Django & JS)](https://algojobs.io/jobs/4654672) | [Sunscrapers sp. z o.o.](https://algojobs.io/company/sunscrapers/) | N/A | Warsaw, Masovian Voivodeship, Poland (Remote) |
+| 07/07/2025 | [Software Engineer 3 - ML](https://algojobs.io/jobs/4574985) | [Captivation Software](https://algojobs.io/company/captivation/) | $130K - $270K | Annapolis Junction, MD |
+| 07/03/2025 | [Software Developer (PXO Innovation Lab)](https://algojobs.io/jobs/4566729) | [Pixomondo](https://algojobs.io/company/pxo/) | N/A | Toronto, Ontario, Canada (Hybrid) |
+| 06/25/2025 | [Full Stack Software Engineer](https://algojobs.io/jobs/4669650) | [Kraken ](https://algojobs.io/company/kraken123/) | N/A | Tokyo (Hybrid) |
+| 06/25/2025 | [Senior Backend Engineer (Python + Django, LATAM)](https://algojobs.io/jobs/4712650) | [Optery, Inc.](https://algojobs.io/company/optery/) | $60K - $90K | Remote - Mexico |
 | 06/19/2025 | [Full Stack Python Developer](https://algojobs.io/jobs/4426401) | [Infomedia](https://algojobs.io/company/infomedia/) | N/A | Cambridge, England, United Kingdom |
 | 06/16/2025 | [Mid-Level Frontend Software Engineer](https://algojobs.io/jobs/4386521) | [Pricefox](https://algojobs.io/company/pricefox/) | N/A | Athens, Greece |
 | 06/11/2025 | [VP, Backend Developer - Finance Engineering](https://algojobs.io/jobs/4346460) | [Galaxy](https://algojobs.io/company/galaxydigitalservices/) | $170K - $220K | New York, NY |
